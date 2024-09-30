@@ -1,11 +1,11 @@
 export const BRAND_BASE_INFO: { [key: string]: string | boolean } = {
-  COMPANY_NAME: "GPT",
-  BRAND_NAME: "GPT",
-  COMPANY_SITE_NAME: "GPT.com",
-  COMPANY_SITE_URL: "https://www.tiledesk.com",
-  CONTACT_US_EMAIL: "support@tiledesk.com",
-  FAVICON: "https://i.ibb.co/cD5hS42/logo-short-0.png",
-  META_TITLE: "GPT - Live Chat",
+  COMPANY_NAME: "ChatRep",
+  BRAND_NAME: "ChatRep",
+  COMPANY_SITE_NAME: "ChatRep.com",
+  COMPANY_SITE_URL: "https://www.ChatRep.com",
+  CONTACT_US_EMAIL: "support@ChatRep.com",
+  FAVICON: "https://i.ibb.co/xzyFjXH/Chat-Rep-fav-icon.png",
+  META_TITLE: "ChatRep - Live Chat",
   DOCS: true,
   LOGOUT_ENABLED: false,
 };
@@ -15,31 +15,31 @@ export var LOGOS_ITEMS: {
 } = {
   COMPANY_LOGO: {
     label: BRAND_BASE_INFO.COMPANY_NAME,
-    icon: "assets/logos/tiledesk_logo.svg",
+    icon: "assets/logos/ChatRep_logo2.svg",
   },
   COMPANY_LOGO_NO_TEXT: {
     label: BRAND_BASE_INFO.COMPANY_NAME,
-    icon: "assets/logos/tiledesk_logo_no_text.svg",
+    icon: "assets/logos/ChatRep_logo_no_text.svg",
   },
   BASE_LOGO: {
     label: BRAND_BASE_INFO.BRAND_NAME,
-    icon: "assets/logos/tiledesk_logo.svg",
+    icon: "assets/logos/ChatRep_logo2.svg",
   },
   BASE_LOGO_NO_TEXT: {
     label: BRAND_BASE_INFO.BRAND_NAME,
-    icon: "assets/logos/tiledesk_logo_no_text.svg",
+    icon: "assets/logos/ChatRep_logo_no_text.svg",
   },
   BASE_LOGO_WHITE: {
     label: BRAND_BASE_INFO.BRAND_NAME,
-    icon: '"assets/logos/tiledesk-logo_new_white.svg',
+    icon: '"assets/logos/ChatRep-logo-new-white.svg',
   },
   BASE_LOGO_WHITE_NO_TEXT: {
     label: BRAND_BASE_INFO.BRAND_NAME,
-    icon: '"assets/logos/tiledesk-logo_new_white.svg',
+    icon: '"assets/logos/ChatRep-logo-new-white.svg',
   },
   BASE_LOGO_GRAY: {
     label: BRAND_BASE_INFO.BRAND_NAME,
-    icon: "https://i.ibb.co/SBhhjDp/tiledesk-logo-new-white.png",
+    icon: "https://i.ibb.co/2cSz0T0/Chat-Rep-logo-new-white2.png",
   },
 };
 

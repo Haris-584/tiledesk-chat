@@ -151,7 +151,7 @@
   "BUTTON_CLOSE_TO_ICON": "Сөйлесуді азайту",
   "BUTTON_EDIT_PROFILE": "Профильді жаңарту",
   "RATE_CHAT": "Чатқа баға беріңіз",
-  "WELLCOME_TITLE": "Сәлем, GPT сайтына қош келдіңіз 👋",
+  "WELLCOME_TITLE": "Сәлем, ChatRep сайтына қош келдіңіз 👋",
   "WELLCOME_MSG": "Біз қалай көмектесе аламыз?",
   "WELLCOME": "Қош келдіңіз",
   "OPTIONS": "опциялар",
@@ -302,7 +302,7 @@
     "MESSAGE_PLACEHOLDER": "Хабарламаңызды теріңіз...",
     "SEND_EMAIL_SUCCESS": "Электрондық пошта сәтті жіберілді ✌🏻",
     "SEND_EMAIL_ERROR": "⚠️ НАЗАР АУДАРЫҢЫЗ ⚠️ Электрондық поштаны жіберу кезінде қате орын алды. Қайталап көріңіз",
-    "SUBJECT_OFFLINE_MESSAGE": "GPT офлайн хабарламасы 💬",
+    "SUBJECT_OFFLINE_MESSAGE": "ChatRep офлайн хабарламасы 💬",
     "SEND_EMAIL_SUCCESS_OFFLINE_MESSAGE": "Хабарлама электрондық пошта арқылы да жіберілді 📩"
   }
 }

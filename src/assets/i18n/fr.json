@@ -302,7 +302,7 @@
     "MESSAGE_PLACEHOLDER": "Tapez votre message...",
     "SEND_EMAIL_SUCCESS": "E-mail envoyé avec succès ✌🏻",
     "SEND_EMAIL_ERROR": "⚠️ ATTENTION ⚠️ Une erreur s'est produite lors de l'envoi de l'e-mail. Veuillez réessayer",
-    "SUBJECT_OFFLINE_MESSAGE": "Message hors ligne de GPT 💬",
+    "SUBJECT_OFFLINE_MESSAGE": "Message hors ligne de ChatRep 💬",
     "SEND_EMAIL_SUCCESS_OFFLINE_MESSAGE": "Message également envoyé par mail 📩"
   }
 }

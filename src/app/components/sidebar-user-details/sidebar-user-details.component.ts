@@ -57,7 +57,7 @@ export class SidebarUserDetailsComponent implements OnInit, OnChanges {
   public_Key: any;
   USER_PHOTO_PROFILE_EXIST: boolean = false;
   version: string;
-  company_name: string = "GPT";
+  company_name: string = "ChatRep";
   DASHBOARD_URL: string;
 
   selectedStatus: any;

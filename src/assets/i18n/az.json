@@ -151,7 +151,7 @@
   "BUTTON_CLOSE_TO_ICON": "Söhbəti minimuma endir",
   "BUTTON_EDIT_PROFILE": "Profili yeniləyin",
   "RATE_CHAT": "Söhbəti qiymətləndirin",
-  "WELLCOME_TITLE": "Salam, GPT 👋-a xoş gəlmisiniz",
+  "WELLCOME_TITLE": "Salam, ChatRep 👋-a xoş gəlmisiniz",
   "WELLCOME_MSG": "Biz necə kömək edə bilərik?",
   "WELLCOME": "Xoş gəldiniz",
   "OPTIONS": "seçimlər",
@@ -302,7 +302,7 @@
     "MESSAGE_PLACEHOLDER": "Mesajınızı yazın...",
     "SEND_EMAIL_SUCCESS": "E-poçt uğurla göndərildi ✌🏻",
     "SEND_EMAIL_ERROR": "⚠️ DİQQƏT ⚠️ E-poçt göndərilərkən xəta baş verdi. Yenidən cəhd edin",
-    "SUBJECT_OFFLINE_MESSAGE": "GPT Offline mesajı 💬",
+    "SUBJECT_OFFLINE_MESSAGE": "ChatRep Offline mesajı 💬",
     "SEND_EMAIL_SUCCESS_OFFLINE_MESSAGE": "Mesaj e-poçt vasitəsilə də göndərilib 📩"
   }
 }

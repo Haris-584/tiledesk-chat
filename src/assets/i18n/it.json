@@ -151,7 +151,7 @@
   "BUTTON_CLOSE_TO_ICON": "Riduci a icona la chat",
   "BUTTON_EDIT_PROFILE": "Modifica profilo",
   "RATE_CHAT": "Valuta chat",
-  "WELLCOME_TITLE": "Ciao, benvenuto su GPT 👋",
+  "WELLCOME_TITLE": "Ciao, benvenuto su ChatRep 👋",
   "WELLCOME_MSG": "Come possiamo aiutarti?",
   "OPTIONS": "opzioni",
   "WELLCOME": "Benvenuto",
@@ -302,7 +302,7 @@
     "MESSAGE_PLACEHOLDER": "Digita il tuo messaggio...",
     "SEND_EMAIL_SUCCESS": "Email inviata con successo ✌🏻",
     "SEND_EMAIL_ERROR": "⚠️ ATTENZIONE ⚠️Si è verificato un errore durante l'invio dell'email. Si prega di riprovare",
-    "SUBJECT_OFFLINE_MESSAGE": "Messaggio offline di GPT 💬",
+    "SUBJECT_OFFLINE_MESSAGE": "Messaggio offline di ChatRep 💬",
     "SEND_EMAIL_SUCCESS_OFFLINE_MESSAGE": "Messaggio inviato anche via mail 📩"
   }
 }

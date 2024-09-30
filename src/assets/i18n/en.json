@@ -151,7 +151,7 @@
   "BUTTON_CLOSE_TO_ICON": "Minimize chat",
   "BUTTON_EDIT_PROFILE": "Update profile",
   "RATE_CHAT": "Rate chat",
-  "WELLCOME_TITLE": "Hi, welcome to GPT 👋",
+  "WELLCOME_TITLE": "Hi, welcome to ChatRep 👋",
   "WELLCOME_MSG": "How can we help?",
   "WELLCOME": "Welcome",
   "OPTIONS": "options",
@@ -302,7 +302,7 @@
     "MESSAGE_PLACEHOLDER": "Type your message...",
     "SEND_EMAIL_SUCCESS": "Email successfully sent ✌🏻",
     "SEND_EMAIL_ERROR": "⚠️ ATTENTION ⚠️ Error occurred while sending email. Please retry again",
-    "SUBJECT_OFFLINE_MESSAGE": "GPT Offline message  💬",
+    "SUBJECT_OFFLINE_MESSAGE": "ChatRep Offline message  💬",
     "SEND_EMAIL_SUCCESS_OFFLINE_MESSAGE": "Message also sent by email 📩"
   }
 }
